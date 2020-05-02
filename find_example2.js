@@ -8,7 +8,7 @@ var ladder = [
 ];
 
 function findWhere(array, searchCriteria) {
-    var found = array.find(item => item.height === searchCriteria.ladder);
+    var found = array.find(item => item.height === Object.values(searchCriteria)[0]);
     return found;
 }
 
