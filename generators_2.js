@@ -34,3 +34,5 @@ const names =[];
 for (let name of teamEngineeringIterator(engineeringTeam)) {
     names.push(name);
 }
+
+//  ["Alex", "Jill", "Sam", "Bill", "Bob"]
