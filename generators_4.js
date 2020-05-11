@@ -29,4 +29,4 @@ for(let value of tree) {
 }
 values;
 
-//  ["Great Post!", "good comment", "bad comment", "meh"]
+//   ["Great Post!", "good comment", "bad comment", "meh"]
